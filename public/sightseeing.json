@@ -1,0 +1,36 @@
+{
+  "sightseeing": [
+    {
+      "id": 1,
+      "touristattraction": "Zadar",
+      "time": "It takes about 20-40 minutes to get to Zadar, depending on the traffic.",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Blick_auf_die_Kirche_des_Hl._Donat_auf_dem_R%C3%B6mischen_Forum_in_Zadar%2C_Kroatien_%2848607311738%29.jpg/1280px-Blick_auf_die_Kirche_des_Hl._Donat_auf_dem_R%C3%B6mischen_Forum_in_Zadar%2C_Kroatien_%2848607311738%29.jpg",
+      "description": "The Zadar region is actually one of Croatia's 21 Counties. It has a truly amazing geographical position, located in the centre of the East Adriatic and surrounded by stunning nature of great variety. This is the place where natural and cultural heritage coexists in perfect harmony and where lovely coastal resorts provide excellent conditions for both active vacation and relaxed family holiday. As the centre of the region and the former capital of Dalmatia, the 3000-year old city of Zadar is the starting point of many excited visitors. It is a proud city of rich and interesting tradition and amazing cultural heritage, however it is by no means only of that reputation, as little coastal towns like Biograd and Nin clearly show how the whole area was tremendously important for Croatian Kings, as well as for the great empires of the Romans, Venetians, Turks, Hungarians and Austrians respectively. The long and indented coast of surreal beauty and splendid peaks of the imposing mountains will make you forget all your worries, leaving you in awe once you realize how many diverse natural wonders can be found around you.National parks, nature parks, islands, reserves, woods, fields, groves, bays, coves and beaches are all integral part of that great nature story that captures the heart and intrigues the mind, so be sure to come and see for yourself what inspires thousands and thousands of visitors to always come back in search for new experiences in some friendly and familiar setting of the Zadar region! Information from: https://www.zadar.hr/en/plan/tourist-information"
+    },
+    {
+      "id": 2,
+      "touristattraction": "Jadro Beach",
+      "time": "It takes 20 minutes to walk from the apartment to Jadro beach",
+      "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/0f/69/72/jadro-beach.jpg?w=1100&h=-1&s=1",
+      "description":"One of the most popular beaches in Vir is the centrally located, pebbled beach of Jadro which extends to both sides of the small boat harbor to a length of about 1km. The beach is renowned for its gently sloping shores and sandy seabed as well as its leisure and entertainment offers. It is ideal for families with children and young people who can meet with peers in the beach bars. Amenities at the Jadro Beach include parasol and lounge chair rentals, lifeguards, beach bars, cafés and restaurants. Active people will enjoy the diving school, and the pedal boat, water ski and jet ski rentals as well as the water polo field. Near the beach there are parking facilities. Information from: https://www.bestofcroatia.eu/en/beaches-details/beach-jadro-163 "
+    },
+    {
+      "id": 3,
+      "touristattraction": "Scuba Diving center on Island Vir",
+      "time": "It takes 20-30 minutes to walk from the apartment to scuba diving center",
+      "picture": "https://www.virturizam.hr/images/izleti/ronilacki/aktivnosti_ronilacki_centar_02_v.jpg",
+      "description": "Diving center on Vir is situated next to the central and most attractive beach Jadro. In addition to professional divers and instructors, complete assortment of equipment is available. Dive Center owns and operates a specialized dive boat. The boat allows us to visit little known dive spots around and near the Island of Vir. Suitable for divers of all categories. Information and picture from: https://www.virturizam.hr/en/turisti%C4%8Dka-agencija-2/scuba-diving-center"
+    },
+    {
+      "id": 4,
+      "touristattraction": "Boat trips from Zadar and the island",
+      "time": "It takes 20-30 minutes to walk from the apartment to the dock.",
+      "picture": "https://plavaadria.hu/wp-content/uploads/2021/02/hajokirandulas-1024x681.jpg",
+      "description": "Boat trip around the island of Vir: A half-day cruise program with swimming and exploring Robinson Bay, Sakarun boat trip, Sea cave, shipwreck and fabulous bay. Kornati islands full day boat trip. Pricing is diffrent depending on what cruise you choose to go on. Information and picture: https://plavaadria.hu/en/programs/ "
+
+
+
+    }
+
+  ]
+}

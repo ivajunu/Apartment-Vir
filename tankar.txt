@@ -1,0 +1,13 @@
+Tankar om projektet:
+
+* Home ska ha "inforutor" med text brevid som "slidar in"
+
+* Allt från bookingform komponenten ska skicka info till ett formulär booking
+
+* Göra en egen jsonfil med sighseeing och rendera den i sightseeing komponenten. KLAR
+
+* sightseeing ska innehålla params som klickar upp en egen sida.
+
+* contact komponenten ska ha ett formulär där man kan kontakta ägare (mig)
+
+*Lägga till ikoner och ha "temafärg"

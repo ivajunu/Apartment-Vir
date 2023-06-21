@@ -1,0 +1,87 @@
+.header {
+  background: url(../src/assets/pictures/waternew.jpg);
+  color: #ffffff;
+  background-position: center;
+  background-size: cover;
+  text-shadow: 1px 1px 20px black;
+  padding-left: 20px;
+  border-bottom: rgba(6, 6, 6, 0.8) solid 3px;
+  box-shadow: rgba(0, 0, 0, 0.20) 0px 3px 8px;
+}
+
+
+.header h1 {
+  font-size: 50px;
+  text-align: left;
+  margin-left: 30px;
+  padding-top: 100px;
+}
+
+.headerP {
+  margin-left: 30px;
+}
+
+.weather {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  padding-right: 60px;
+}
+
+.weather p {
+  align-self: flex-end;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 800;
+  margin-top: 150px;
+  width: 250px;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.headerh1 {
+  width: 50%;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 800;
+  width: 50%;
+}
+
+.headerh1 a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.headerh1 a:visited {
+  color: #ffffff;
+}
+
+
+
+.navcontainer {
+  margin-top: 70px;
+  font-size: 20px
+}
+.navlist {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+  padding:15px;
+}
+.navlist li a{
+  display: block;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.navlist a:hover {
+  color: #8dc5f3;
+}

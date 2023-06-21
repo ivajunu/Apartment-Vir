@@ -1,0 +1,9 @@
+.footer {
+  height: 7rem;
+  border-top: rgba(141, 197, 243, 0.8)
+  solid 3px;
+}
+
+h3, p {
+  padding: 30px;
+}

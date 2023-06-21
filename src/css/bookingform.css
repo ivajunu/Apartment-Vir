@@ -1,0 +1,92 @@
+h2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 30px;
+  color: #005AA4;
+  font-size: 30px;
+}
+
+.containerbooking  {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  border: solid #8dc5f3 3px;
+  margin: 30px auto;
+  width: 70%;
+  border-radius: 15px;
+  text-align: center;
+  align-items: center;
+}
+
+.gridpopups {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin: 30px auto;
+  width: 70%;
+  border-radius: 15px;
+}
+
+.containerform1, .containerform2 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  width: 300px;
+  height: 70px;
+  margin: 30px;
+  border-radius: 15px;
+  border: 0;
+  word-spacing: 20px;
+  border: solid #8dc5f3 2px;
+}
+
+button {
+  margin: 15px;
+  text-align: center;
+  background-color: rgb(141, 197, 243);
+  box-shadow: rgba(141, 197, 243, 0.25) 0px 2px 5px -1px;
+  border: 2px solid rgb(27, 145, 243);
+  color: #182c6d;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 7px;
+}
+
+button a {
+  text-decoration: none;
+  color: #182c6d;
+}
+
+a:visited {
+  color: #182c6d;
+}
+
+button:hover {
+  background-color: rgb(199, 223, 243);
+}
+/* POPUPS  */
+
+.calender {
+  width: 40%;
+}
+
+.guests {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 30%;
+  height:270.2px;
+  border-radius: 15px;
+  border: solid #8dc5f3 2px;
+}

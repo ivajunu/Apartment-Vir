@@ -1,0 +1,36 @@
+.containerHome {
+  display: flex;
+  flex-direction: column;
+  max-width:100%;
+}
+
+#homepictures {
+  width: 500px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.containerOne, .containerthree, .containertwo, .containerfour {
+  border-top: solid #8dc5f3 2px;
+  padding: 5rem;
+  max-width: 100%;
+}
+
+.containerOne, .containerthree {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items:center ;
+}
+
+.containertwo, .containerfour {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+  align-items:center ;
+}
+
+.textDiv2, .textDiv1 {
+width: 50%;
+}
